@@ -1,0 +1,35 @@
+body
+{
+background-color :lightgrey;
+margin : 70px;
+padding: 70px;
+border : 2px solid rgb(1, 9, 12);
+border-radius: 10px;
+
+
+}
+h1,h2,h3,h4
+{
+color: rgb(3, 3, 82);
+text-decoration: black solid underline;
+}
+p
+{
+    font-size: 20px;
+}
+#photo
+{
+    margin: 10px;
+    padding: 10px;
+    
+}
+header{
+    color: rgb(3, 3, 82);
+    text-decoration:  black solid underline;
+
+}
+#one
+{
+    font-size: 16px;
+    
+}
