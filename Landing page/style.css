@@ -1,0 +1,107 @@
+body{
+ background-color:rgb(253, 217, 217); 
+ margin: 30px;
+ padding: 30px;
+ border: 2px solid beige;
+ border-radius: 25px;
+ background-image: url(lipstick.webp);
+ background-size: cover;
+}
+logo 
+{
+ color: #a70b66; 
+ font-size: 35px;
+ font-style: italic;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
+}
+header{
+  height: 200px;
+  font-size: 20px;
+  color:rgba(247, 7, 127, 0.959);
+  text-decoration: underline;
+  display :inline;
+
+
+
+}
+button
+{
+  color: beige;
+  background-color: rgba(243, 8, 86, 0.671);
+  text-align: right;
+  
+}
+#search
+{
+background-color: beige;
+color: black;
+text-align: right;
+}
+a
+{
+  margin-right: 100px;
+}
+#one
+{
+  text-align: right;
+}
+.Box
+{
+  height: 220px;
+  width: 220px;
+  margin: 20px;
+  padding: 20px;
+  background-color: azure;
+  display: inline-block;
+  border: 2px solid azure;
+  border-radius: 25px;
+}
+#box1
+{
+background-image: url(sale.jpg);
+background-size: cover;
+}
+#box2
+{
+  background-image:url(dersses.jpg);
+  background-size: cover;
+}
+#box3
+{
+  background-image:url(makeup.jpg);
+  background-size: cover;
+}
+#box4
+{
+  background-image:url(shoes.jpg);
+  background-size: cover;
+}
+#box5
+{
+  background-image:url(bags.jpg);
+  background-size: cover;
+}
+#box6
+{
+  background-image:url(perfume.webp);
+  background-size: cover;
+}
+footer{
+  color:#68042d;;
+  width: 200px;
+  background-color: rgb(204, 18, 89);
+  font-size: 40px;
+  text-align: center;
+  display: inline;
+  
+}
+#three
+{
+  text-align: center;
+  color: rgb(85, 2, 2);
+  font-size: 25px;
+  font-style: italic;
+}
+
+
